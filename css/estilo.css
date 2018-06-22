@@ -1,5 +1,5 @@
 body{
-	background-color: purple;
+	background-color: lightcoral;
 margin-left: 50px;
 }
 *{
@@ -10,10 +10,10 @@ img{
 	height: 500px;
 }
 #tituloprincipal{
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Anton', sans-serif;
 	size: 20px;
 	text-align: center;
-	background: white;
+	background: lightblue;
 	color: black;
 }
 .Publicidad{
@@ -49,4 +49,16 @@ li{
 	border-right: 1em solid blue;
 	text-align: center;
 	list-style-type: none;
+}
+
+.Publicidad2{
+	position: fixed;
+	top: 20em;
+	right: 1em;
+}
+
+video{
+	height: 200px;
+	width: 400px;
+
 }
