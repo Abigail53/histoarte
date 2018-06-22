@@ -1,0 +1,52 @@
+body{
+	background-color: purple;
+margin-left: 50px;
+}
+*{
+	color: white;
+}
+img{
+	width: 500px;
+	height: 500px;
+}
+#tituloprincipal{
+	font-family: 'Open Sans', sans-serif;
+	size: 20px;
+	text-align: center;
+	background: white;
+	color: black;
+}
+.Publicidad{
+	position: fixed;
+	top: 5em;
+	right:1em;
+}
+video{
+	height: 300px;
+	width: 500px;
+}
+section{
+	width: 550px;
+	text-align: center;
+}
+/*Comentario*/
+#footerprincipal{
+	margin-top: 20px;
+	background: white;
+	color: black;
+}
+nav{
+	list-style-type: none;
+}
+a{
+	text-decoration: none;
+}
+li{
+	background: black;
+	width: 500px;
+	margin:0.5em 0;
+	padding: 0.3em;
+	border-right: 1em solid blue;
+	text-align: center;
+	list-style-type: none;
+}
